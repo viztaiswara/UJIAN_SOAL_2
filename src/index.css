@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+
+}
+h1,button,h4{
+  color:black;
+
+}
+
+img{
+  width: 300px;
+  height: 300px;
+}
